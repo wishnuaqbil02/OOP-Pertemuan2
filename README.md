@@ -128,4 +128,4 @@ public static void main(String[] args) {
         pesawat.infoPesawat();
 ```
 # Output :
-![](Dokumentasi/output.png)
+![](OOP-Pertemuan2/output.png)
